@@ -2,3 +2,4 @@ Micha³ Madejski
 18.03.2020
 ------<>------
 Zajêcia z GIT
+Nowa zmiana
